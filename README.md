@@ -1,2 +1,3 @@
-# Portfolio-31-Days-In-Orange-Carnival
-포트폴리오의 프로젝트들의 주요 기능 구현 코드
+# Portfolio
+# 프로젝트 주요 기능 구현 코드 
+포트폴리오 프로젝트들의 주요 기능 구현 코드
