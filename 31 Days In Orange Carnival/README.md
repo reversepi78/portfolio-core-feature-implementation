@@ -6,4 +6,4 @@
 로그라이크 구조를 적용해 매 플레이마다 다른 선택과 루트, 엔딩을 경험할 수 있도록 구성했습니다.
 
 ## 포트폴리오 링크
-(Notion 링크)
+Notion 링크 : https://adorable-onion-955.notion.site/31-Days-In-Orange-Carnival-351d4214944880f4bbd2eaf13d4d53c3?source=copy_link
