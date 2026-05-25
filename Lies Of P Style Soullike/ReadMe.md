@@ -1,9 +1,10 @@
-# Zombie Survival Multiplayer
+# Lies Of P Style Soulslike
 
 ## 소개
-Zombie Survival Multiplayer은 Photon PUN을 기반으로 구현한 멀티플레이 슈팅 게임입니다.
-탑다운 시점과 FPS 시점을 자유롭게 전환하며 플레이할 수 있도록 구성했으며,
-각 게임 방에서는 최대 4인까지 함께 플레이를 지원합니다.
+'P의 거짓'의 전투 시스템을 구현한 소울라이크 게임입니다.
+게임은 플레이어와 보스 몬스터로 구성되어 있고,
+플레이어는 이동, 공격, 가드, 회피를
+몬스터는 이동, 공격, 강공격을 구현하였습니다.
 
 ## 포트폴리오 링크
-Notion 링크 : https://adorable-onion-955.notion.site/Zombie-Survival-Multiplayer-351d42149448802e98e0c1b11b19ae6c?source=copy_link
+Notion 링크 : https://www.notion.so/P-36ad421494488058b354daf2af533197?source=copy_link
